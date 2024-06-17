@@ -21,3 +21,4 @@ describe('CaruselImgComponent', () => {
     expect(component).toBeTruthy();
   });
 });
+
